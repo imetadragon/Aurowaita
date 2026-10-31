@@ -15,7 +15,7 @@ mkdir -p ~/.local/share/aurorae/themes/
 cp -r src/* ~/.local/share/aurorae/themes/
 ```
 
-or simply download the tarball file from releases and extract it to ~/.local/share/share/aurorae/themes/
+or simply download the tarball file from releases and extract it to ~/.local/share/aurorae/themes/
 
 ## Contributing
 
