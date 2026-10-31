@@ -1,5 +1,6 @@
 # Aurowaita
 A pixel-perfect Aurorae window decoration theme for KDE Plasma, designed to bring the Libadwaita aesthetic to the KWin window manager.
+
 ## Project Goal
 The goal of this project is to achieve absolute visual parity between KDE Plasma window decorations and the GNOME Libadwaita look. This includes:
 * Standardized window button geometry (the "pills").
@@ -13,6 +14,8 @@ cd aurowaita
 mkdir -p ~/.local/share/aurorae/themes/
 cp -r src/* ~/.local/share/aurorae/themes/
 ```
+
+or simply download the tarball file from releases and extract it to ~/.local/share/share/aurorae/themes/
 
 ## Contributing
 
